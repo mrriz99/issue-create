@@ -1,3 +1,4 @@
-# issue-create
-feel free to raise issue
-whatever you do put in issue
+# this repo is created by mr-riz.
+**Feel free to contribute**
+> `<mr.riz>`life is all about learning.
+ 
