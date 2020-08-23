@@ -7,4 +7,4 @@
 **programming is an art :art:**
 
 **:ok:**
->feel free to talk
+>feel free to connect
