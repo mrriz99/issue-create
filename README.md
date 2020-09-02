@@ -13,4 +13,4 @@
 
 >`<learn together for be no1>`
 
-**ok**
+**ok** **bye**
